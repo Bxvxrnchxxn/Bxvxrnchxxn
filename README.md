@@ -1,13 +1,24 @@
 <h1 align="center">Hi 👋, I'm Bovorn Dejsuwannachai</h1>
 <h3 align="center">A junior developer from Thailand</h3>
 
-- 📱 This is my project Flutter **SOS Alertify**
+- 💻 Here is my React Project **KU Cafe**
 
-- ⚛️ This is my project React **KU Cafe**
+- 📱 Here is my Flutter Project **SOS Alertify**
 
-- 🤖 This is my project Machine Learning **Detect Animals**
+- 🤖 Here is my Machine Learning Project **Detect Animals**
 
-- 📫 How to reach me **bovorn09871@gmail.com**
+- 🍀 I’m currently learning **React, Figma , Vue.js**
+
+- 💎 Conference **Participate in submitting academic articles about AI At the AUCC conference**
+
+- 📧 How to reach me **bovorn09871@gmail.com**
+
+- ⭐️ Certificate
+-    **SQL Hacker Rank (BASIC)**
+-    **Power BI**
+-    **AIESEC**
+-    **Presenting academic work on information technology for study tours from STMIK TIME Computer College, Indonesia**
+-    **Outstanding Student for 2 consecutive years**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
